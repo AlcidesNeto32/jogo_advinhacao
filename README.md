@@ -38,5 +38,8 @@ Para rodar o jogo, use o comando:
 - O jogo termina quando você acertar o número exato!
 
 ---
+## Referência e Créditos
+Este projeto foi desenvolvido seguindo o tutorial oficial do livro de Rust, traduzido pela comunidade **Rust-BR**:
+* [Tutorial do Jogo de Adivinhação - Rust Book (PT-BR)](https://rust-br.github.io/rust-book-pt-br/ch02-00-guessing-game-tutorial.html)
 *Projeto criado para fins de estudo da linguagem Rust.*
-*Todos os créditos -> https://rust-br.github.io/rust-book-pt-br/ch02-00-guessing-game-tutorial.html*
+
