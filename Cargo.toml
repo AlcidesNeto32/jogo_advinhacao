@@ -1,0 +1,8 @@
+[package]
+name = "jogo_de_advinhacao"
+version = "0.1.0"
+edition = "2024"
+authors = ["Alcides Neto"]
+
+[dependencies]
+rand = "0.3.23"
